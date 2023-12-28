@@ -22,7 +22,7 @@
 ## Pré-requisitos
 Antes de começar, certifique-se de ter as seguintes ferramentas e dependências instaladas:
 * Visual Studio 2022
-* SQL Server
+* Postgres
 * .NET Core 6 SDK
 
 ## Padrão de Repositório
