@@ -31,3 +31,6 @@ O Padrão de Repositório estabelece uma camada de abstração entre as camadas 
 ## Unit of Work (Unidade de Trabalho)
 Enquanto o Padrão de Repositório ajuda na abstração do código, uma Unidade de Trabalho é essencial para manter a integridade dos dados, especialmente em cenários onde vários repositórios compartilham o mesmo contexto de banco de dados. Ela gerencia transações, evita atualizações parciais e garante consistência.
 
+
+
+![Resultado API](./images/swagger.png)
